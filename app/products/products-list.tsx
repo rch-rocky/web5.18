@@ -7,7 +7,7 @@ const productCategories = [
     id: "spe",
     title: "固相萃取柱（SPE）",
     description: "专业提供多种规格固相萃取柱，适用于样品前处理，具有优异的分离效果和重现性。",
-    image:"spe.jpg",
+    image:"spe.png",
     subcategories: [
       {
         title: "聚合物基质",
