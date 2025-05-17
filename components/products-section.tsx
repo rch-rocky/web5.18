@@ -7,7 +7,7 @@ const products = [
     id: 1,
     title: "固相萃取柱（SPE）",
     description: "提供聚合物基质和硅胶基质多种类型固相萃取柱，适用于各类样品前处理，具有优异的分离效果和重现性。",
-    image:"spe.jpg"
+    image:"spe.png"
   },
   {
     id: 2,
